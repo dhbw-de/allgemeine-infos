@@ -3,10 +3,8 @@ Informationen und Links für verschiedene Projekte
 
 ## Vorlagen
 
-[[Persona Vorlage]]
+[Wiki](https://github.com/dhbw-de/allgemeine-infos/wiki)
 
-
-[[User Story Vorlage]]
 
 
 ## Links
