@@ -29,6 +29,8 @@ https://trends.google.com/trends/
 
 https://tweetdeck.twitter.com/
 
+https://klout.com/ (Personal Score)
+
 https://mangools.com/ (Keyword Search)
 
 
