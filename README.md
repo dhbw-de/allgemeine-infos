@@ -1,6 +1,11 @@
 # allgemeine-infos
 Informationen und Links für verschiedene Projekte
 
+## Chat Channel
+
+https://join.slack.com/t/dhbw-digital/signup 
+
+
 ## Vorlagen
 
 [Wiki](https://github.com/dhbw-de/allgemeine-infos/wiki)
