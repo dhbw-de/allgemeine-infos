@@ -25,6 +25,8 @@ https://www.yworks.com/yed-live/
 
 ## Social Media
 
+https://trends.google.com/trends/
+
 https://tweetdeck.twitter.com/
 
 https://mangools.com/ (Keyword Search)
