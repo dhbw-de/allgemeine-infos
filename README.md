@@ -8,9 +8,11 @@ Informationen und Links für verschiedene Projekte
 https://join.slack.com/t/dhbw-digital/signup 
 
 
-## Vorlagen
+## Wiki Links
 
-[Wiki](https://github.com/dhbw-de/allgemeine-infos/wiki)
+[Whitepaper Fragen](https://github.com/dhbw-de/allgemeine-infos/wiki)
+
+[Vorlagen](https://github.com/dhbw-de/allgemeine-infos/wiki/Vorlagen)
 
 
 
