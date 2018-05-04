@@ -1,6 +1,8 @@
 # allgemeine-infos
 Informationen und Links für verschiedene Projekte
 
+![Projekt Phasen](software-project-phases.jpg)
+
 ## Chat Channel
 
 https://join.slack.com/t/dhbw-digital/signup 
