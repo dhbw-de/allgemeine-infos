@@ -20,6 +20,10 @@ https://join.slack.com/t/dhbw-digital/signup
 
 ## Markdown / Github Pages
 
+https://jekyllthemes.io/free
+
+https://html5up.net/
+
 https://guides.github.com/features/mastering-markdown/
 
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
