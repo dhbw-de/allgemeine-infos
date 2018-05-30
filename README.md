@@ -24,6 +24,8 @@ https://jekyllthemes.io/free
 
 https://html5up.net/
 
+https://fontawesome.com/
+
 https://guides.github.com/features/mastering-markdown/
 
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
