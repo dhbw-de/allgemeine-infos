@@ -1,4 +1,4 @@
-# allgemeine-infos
+# dhbw-de Digitalisierung
 Informationen und Links für verschiedene Projekte
 
 ## Vorherige Projekte
@@ -6,11 +6,10 @@ Informationen und Links für verschiedene Projekte
 
 * https://github.com/dhbw-de/bikeguard/wiki (https://dhbw-de.github.io/bikeguard/)
 
-
 * https://github.com/dhbw-de/CareHome/wiki  (https://dhbw-de.github.io/CareHome/)
 
 
-
+## Projekt Lebenszyklus
 
 ![Projekt Phasen](software-project-phases.jpg)
 
@@ -23,7 +22,7 @@ Informationen und Links für verschiedene Projekte
 
 [Vorlagen](https://github.com/dhbw-de/allgemeine-infos/wiki/Vorlagen)
 
-
+[Linksammlung](https://github.com/dhbw-de/allgemeine-infos/wiki/Online-Ressourcen)
 
 
 
