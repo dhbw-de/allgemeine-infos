@@ -4,9 +4,13 @@
 
 ![intro](continuous-integration-in-github-2-1024.jpg)
 
-## Software Life Cycle
+
+## Software Development
 
 ![intro2](continuous-integration-in-github-3-1024.jpg)
+
+
+## Development Phases
 
 
 ![Projekt Phasen](../software-project-phases.jpg)
