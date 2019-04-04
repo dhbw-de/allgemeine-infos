@@ -18,5 +18,14 @@ Informationen und Links für verschiedene Projekte
 
 [Linksammlung](https://github.com/dhbw-de/allgemeine-infos/wiki/Online-Ressourcen)
 
+## Versicherer auf Github
+
+* https://github.com/allianz-de
+* https://github.com/BGV-Versicherung
+* https://github.com/MunichRe
+* https://github.com/LVM-Versicherung
+* https://github.com/rundv
+* https://github.com/zurichversicherung
+
 
 
