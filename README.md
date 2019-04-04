@@ -9,12 +9,6 @@ Informationen und Links für verschiedene Projekte
 * https://github.com/dhbw-de/CareHome/wiki  (https://dhbw-de.github.io/CareHome/)
 
 
-## Projekt Lebenszyklus
-
-![Projekt Phasen](software-project-phases.jpg)
-
-
-
 
 ## Wiki Links
 
