@@ -8,6 +8,8 @@ Informationen und Links für verschiedene Projekte
 
 * https://github.com/dhbw-de/CareHome/wiki  (https://dhbw-de.github.io/CareHome/)
 
+* usw, generell auf https://github.com/dhbw-de
+
 
 
 ## Wiki Links
